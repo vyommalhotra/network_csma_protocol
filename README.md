@@ -3,7 +3,7 @@ Simulate a network utilizing the CSMA protocol and compare the throughput and ef
 
 Carrier-sense multiple access with collision detection is a media access control method used most notably in early Ethernet technology for local area networking. It uses carrier-sensing to defer transmissions until no other stations are transmitting.
 
-### Persistent CSMA-CS:
+### Persistent CSMA-CD:
 
 <div align="center">
     <img src="/images/1.PNG" height="300" width="400">
@@ -18,7 +18,7 @@ Carrier-sense multiple access with collision detection is a media access control
 </div>
 
 
-### Non-Persistent CSMA-CS:
+### Non-Persistent CSMA-CD:
 
 <div align="center">
     <img src="/images/4.PNG" height="300" width="400">
